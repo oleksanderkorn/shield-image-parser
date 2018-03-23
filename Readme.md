@@ -26,3 +26,14 @@ https://s3.amazonaws.com/shielddevtest/photo.txt
 1. Java
 Time
 Please complete the following in 2-3 hours.
+
+
+***Run locally***
+
+```
+mvn spring-boot:run
+```
+
+***Live version deployed to heroku:*** [Image Parser](https://imageparser.herokuapp.com/)
+
+
