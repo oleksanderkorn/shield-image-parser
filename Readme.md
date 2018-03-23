@@ -27,6 +27,10 @@ https://s3.amazonaws.com/shielddevtest/photo.txt
 Time
 Please complete the following in 2-3 hours.
 
+***Run Java Tests***
+```
+mvn test
+```
 
 ***Run locally***
 
